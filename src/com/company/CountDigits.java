@@ -8,6 +8,6 @@ public class CountDigits {
             number=number/10;
             count++;
         }
-        System.out.println(count);
+        System.out.println("Number of digit is "+count);
     }
 }
