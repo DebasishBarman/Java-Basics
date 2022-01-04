@@ -42,6 +42,9 @@ public class arraylistExample {
         vector.addAll(list);
         System.out.println("----------------VECTOR-----------------");
         System.out.println(vector);
+        vector.clone();
+        System.out.println(vector);
+
 
 
     }
